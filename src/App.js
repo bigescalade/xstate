@@ -43,7 +43,6 @@ function App() {
   const yellow = current.matches('yellow')
 	const green = current.matches('green')
 
-	const stop = current.matches('red.stop')
 	const walk = current.matches('red.walk')
 
   return (
